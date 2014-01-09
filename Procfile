@@ -1,0 +1,1 @@
+faye: bundle exec thin start -R faye.ru -p 9292
